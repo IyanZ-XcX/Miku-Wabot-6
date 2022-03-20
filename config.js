@@ -15,8 +15,8 @@ gc1 = 'https://chat.whatsapp.com/CcHAiR7gDJR0x8EakMsQ0k'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/CcHAiR7gDJR0x8EakMsQ0k', 'https://chat.whatsap'] // ganti jadi group lu
-global.owner = ['6285742344873','6281214769844'] // Put your number here //owner eval
-global.kontak = ['6285742344873','6281214769844']//Ketika ada yang ngetik #owner
+global.owner = ['6282154327248'] // Put your number here //owner eval
+global.kontak = ['6282154327248','6281214769844']//Ketika ada yang ngetik #owner
 global.mods = ['62896255561617'] // Want some help?
 global.prems = ['62896255561610'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -49,20 +49,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'Privat Syg'
 kasihcaption = `Nih kak`
-namakontak1 = 'Boss Miku'
-namakontak2 = 'Manager Miku'
+namakontak1 = 'RellzOwnBot'
+namakontak2 = ''
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = '© Miku-Bot' // ganti aja
-global.author = 'Iyann Ganzz' // ganti aja
+global.packname = '© RellzBotz' // ganti aja
+global.author = 'RellzOwnBot' // ganti aja
 
 //
-bc = 'Miku-Bot' //Broadcast
-footer = '\n*Miku-Bot By +62 857-4234-4873*\n*Bot Grup: https://tinyurl.com/yapnjvdt*\n*Twitter Owner: https://twitter.com/IyanKastara*'
-namabot = 'Miku-Bot'
-namalu = 'Iyann Ganteng'
+bc = 'RellzBotz' //Broadcast
+footer = '\n*CREATED BY @RELLZBOTZ !*'
+namabot = 'RellzBotz'
+namalu = 'Rellz Ganteng'
 
 
 // 
@@ -73,7 +73,7 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.image = 'https://telegra.ph/file/301eb8d95f70026e5aa90.jpg'
+global.image = 'https://telegra.ph/file/5792e8aed4be42ef146ec.jpg'
 global.wm = 'Daftar Dulu Onii Chan!'
 
 // tingkat kesulitan, semakin tinggi semakin susah
