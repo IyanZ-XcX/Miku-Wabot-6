@@ -14,12 +14,12 @@ let handler = async (m, { conn }) => {
 
 
 *IKUTI TUTORIAL INI*
-```- KLIK LINK PAY TRSEBUT
+- KLIK LINK PAY TRSEBUT
 - SKRENSHOOT
 - SCAN 
 - ISI NOM
 - TF 
-- DONE```
+- DONE
 .`.trim(), m)
 }
 
